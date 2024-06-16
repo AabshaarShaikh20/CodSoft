@@ -8,10 +8,10 @@ This repository contains three data science projects that I completed during my 
 Predict the survival of passengers on the Titanic using various features such as age, gender, and passenger class.
 
 ### Key Features:
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Model building using Logistic Regression, Decision Trees, and Random Forests
-Model evaluation using accuracy, precision, recall, confusion matrix and classification_report
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Model building using Logistic Regression, Decision Trees, and Random Forests
+- Model evaluation using accuracy, precision, recall, confusion matrix and classification_report
 
 ### Files:
 TitanicSurvivalPrediction.ipynb: Jupyter notebook containing the code and analysis
